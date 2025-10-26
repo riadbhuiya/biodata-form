@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-label {
+label, button {
     display: block;
 }
 
